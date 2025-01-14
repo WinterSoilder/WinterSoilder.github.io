@@ -1,2 +1,0 @@
-# aeigen
-aeigen static site.
